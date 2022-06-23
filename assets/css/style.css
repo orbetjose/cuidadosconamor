@@ -6668,7 +6668,7 @@ a:focus {
 .service-one {
 	background-color: #f0f7f7;
 	padding-top: 150px;
-	padding-bottom: 90px;
+	padding-bottom: 50px;
 	position: relative;
 }
 
@@ -6877,17 +6877,17 @@ a:focus {
 
 .owl-carousel .owl-item:nth-child(4) .service-one__icon,
 [class*=col-]:nth-child(4) .service-one__icon {
-	background-color: #6177ff;
+	background-color: #00aeef;
 }
 
 .owl-carousel .owl-item:nth-child(5) .service-one__icon,
 [class*=col-]:nth-child(5) .service-one__icon {
-	background-color: #b540ff;
+	background-color: #f7951e;
 }
 
 .owl-carousel .owl-item:nth-child(6) .service-one__icon,
 [class*=col-]:nth-child(6) .service-one__icon {
-	background-color: #00cde5;
+	background-color: #9fcc3b;
 }
 
 .owl-carousel .owl-item:nth-child(7) .service-one__icon,
@@ -7026,14 +7026,12 @@ a:focus {
 }
 
 .service-one__home-one {
-	padding-bottom: 140px;
 	margin-top: 0;
 }
 
 .service-one__carousel-two .service-one__content {
 	padding-top: 57px;
 	padding-bottom: 47px;
-	background-image: url(../images/svgs/service-shape-1-1.svg);
 	background-repeat: no-repeat;
 	background-position: center calc(100% - 60px);
 	transition: all 500ms ease;
@@ -7137,7 +7135,7 @@ a:focus {
 .service-one__carousel-two [class*=owl-item]:nth-child(4) .service-one__single:hover .service-one__content,
 .service-one__carousel-two [class*=owl-item]:nth-child(10) .service-one__single:hover .service-one__content,
 .service-one__carousel-two [class*=owl-item]:nth-child(16) .service-one__single:hover .service-one__content {
-	background-color: #6177ff;
+	background-color: #00aeef;
 }
 
 .service-one__carousel-two [class*=owl-item]:nth-child(4) .service-one__single:hover .service-one__icon i,
@@ -7146,7 +7144,7 @@ a:focus {
 .service-one__carousel-two [class*=owl-item]:nth-child(10) .service-one__single:hover .service-one__icon i,
 .service-one__carousel-two [class*=owl-item]:nth-child(16) .service-one__single:hover .service-one__link,
 .service-one__carousel-two [class*=owl-item]:nth-child(16) .service-one__single:hover .service-one__icon i {
-	color: #6177ff;
+	color: #00aeef;
 }
 
 
@@ -7154,7 +7152,7 @@ a:focus {
 .service-one__carousel-two [class*=owl-item]:nth-child(5) .service-one__single:hover .service-one__content,
 .service-one__carousel-two [class*=owl-item]:nth-child(11) .service-one__single:hover .service-one__content,
 .service-one__carousel-two [class*=owl-item]:nth-child(17) .service-one__single:hover .service-one__content {
-	background-color: #b540ff;
+	background-color: #f7941e;
 }
 
 .service-one__carousel-two [class*=owl-item]:nth-child(5) .service-one__single:hover .service-one__icon i,
@@ -7163,7 +7161,7 @@ a:focus {
 .service-one__carousel-two [class*=owl-item]:nth-child(11) .service-one__single:hover .service-one__link,
 .service-one__carousel-two [class*=owl-item]:nth-child(17) .service-one__single:hover .service-one__link,
 .service-one__carousel-two [class*=owl-item]:nth-child(17) .service-one__single:hover .service-one__icon i {
-	color: #b540ff;
+	color: #f7941e;
 }
 
 
@@ -7171,7 +7169,7 @@ a:focus {
 .service-one__carousel-two [class*=owl-item]:nth-child(6) .service-one__single:hover .service-one__content,
 .service-one__carousel-two [class*=owl-item]:nth-child(12) .service-one__single:hover .service-one__content,
 .service-one__carousel-two [class*=owl-item]:nth-child(18) .service-one__single:hover .service-one__content {
-	background-color: #00cde5;
+	background-color: #9ecc3b;
 }
 
 .service-one__carousel-two [class*=owl-item]:nth-child(6) .service-one__single:hover .service-one__icon i,
@@ -7180,7 +7178,7 @@ a:focus {
 .service-one__carousel-two [class*=owl-item]:nth-child(12) .service-one__single:hover .service-one__link,
 .service-one__carousel-two [class*=owl-item]:nth-child(18) .service-one__single:hover .service-one__link,
 .service-one__carousel-two [class*=owl-item]:nth-child(18) .service-one__single:hover .service-one__icon i {
-	color: #00cde5;
+	color: #9ecc3b;
 }
 
 .service-one .owl-nav {
@@ -7546,7 +7544,7 @@ a:focus {
 --------------------------------------------------------------*/
 
 .about-three {
-	padding-top: 150px;
+	padding-top: 100px;
 	padding-bottom: 150px;
 }
 
@@ -7721,7 +7719,7 @@ a:focus {
 .funfact-one {
 	padding-top: 105px;
 	padding-bottom: 109px;
-	background-color: var(--thm-base);
+	background-color: #00aeef;
 	position: relative;
 }
 
