@@ -163,7 +163,7 @@ a:focus {
 .block-title h3 {
 	margin: 0;
 	color: var(--thm-black);
-	font-size: 45px;
+	font-size: 35px;
 	font-weight: bold;
 	line-height: 50px;
 }
@@ -1710,7 +1710,7 @@ a:focus {
 --------------------------------------------------------------*/
 
 .site-footer {
-	background-color: #1b1d21;
+	background-color: #2b3890;
 }
 
 .site-footer__upper {
@@ -1816,8 +1816,8 @@ a:focus {
 }
 
 .site-footer__main {
-	padding-bottom: 90px;
-	padding-top: 133px;
+	padding-bottom: 10px;
+	padding-top: 40px;
 }
 
 @media(min-width: 1200px) {
@@ -1826,7 +1826,7 @@ a:focus {
 	}
 
 	.footer-widget__links {
-		margin-left: -30px;
+		margin-left: 0;
 	}
 
 	.footer-widget__post {
@@ -1844,7 +1844,7 @@ a:focus {
 	color: #fff;
 	margin: 0;
 	font-weight: bold;
-	margin-bottom: 32px;
+	margin-bottom: 17px;
 }
 
 .footer-widget p {
@@ -1957,11 +1957,11 @@ a:focus {
 }
 
 .footer-widget__contact .footer-widget__title {
-	margin-bottom: 25px;
+	margin-bottom: 11px;
 }
 
 .footer-widget__contact p+p {
-	margin-top: 20px;
+	margin-top: 8px;
 }
 
 
@@ -7604,7 +7604,7 @@ a:focus {
 
 .about-three__content>p {
 	margin: 0;
-	margin-top: 30px;
+	margin-top: 10px;
 	margin-bottom: 34px;
 }
 
